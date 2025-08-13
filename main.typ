@@ -1,3 +1,6 @@
+#set text(font: "Noto Sans CJK JP")
+
+
 = 見出し1
 
 これは段落です。空行は改段落を表します。
